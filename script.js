@@ -29,7 +29,7 @@ function addListAfterKeypress(event) {
 
 function delteListElement(){
 	
-	list.removeChild(list.lastElementChild);  
+	list.removeChild(list.firstElementChild);  
 }
 
 
