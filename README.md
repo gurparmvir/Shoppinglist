@@ -1,1 +1,1 @@
-# Shoppinglist
+In this shopping list I have used the DOM callback functions. User can add and delete items from the shopping list. When user click on enter or press enter it will add the item to the bottom of the list and when user click on delete it will remove the item from the top of the list. 
